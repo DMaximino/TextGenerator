@@ -1,0 +1,13 @@
+{
+  "batch_size": 1000,
+  "num_words": 3000,
+  "oov_token": "None",
+  "random_sampling": "None",
+  "epochs": 1,
+  "start_from_pretrained_model": false,
+  "pretrained_model_name": "",
+  "pretrained_model_dir": "",
+  "corpus_path": "",
+  "save_dir": "",
+  "save_name": ""
+}
